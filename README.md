@@ -1,0 +1,1 @@
+Welcome to my SQL Portfolio. This code repository is full of projects I have completed while on my journey of becoming a data analyst. Please feel free to take a look and ask questions if you have any.
